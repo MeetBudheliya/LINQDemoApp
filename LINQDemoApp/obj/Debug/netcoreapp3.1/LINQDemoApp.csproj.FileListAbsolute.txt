@@ -1,0 +1,13 @@
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/bin/Debug/netcoreapp3.1/LINQDemoApp.deps.json
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/bin/Debug/netcoreapp3.1/LINQDemoApp.runtimeconfig.json
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/bin/Debug/netcoreapp3.1/LINQDemoApp.runtimeconfig.dev.json
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/bin/Debug/netcoreapp3.1/LINQDemoApp.dll
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/bin/Debug/netcoreapp3.1/LINQDemoApp.pdb
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.csproj.AssemblyReference.cache
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.AssemblyInfoInputs.cache
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.AssemblyInfo.cs
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.csproj.CoreCompileInputs.cache
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.dll
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.pdb
+/Users/meet/Documents/DotNet_Projects/LINQDemoApp/LINQDemoApp/obj/Debug/netcoreapp3.1/LINQDemoApp.genruntimeconfig.cache
